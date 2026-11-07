@@ -37,3 +37,6 @@ B6212EEE6C8BFE2F3CBF34B09DE26FB221D8B6E10CE3051E276A83346B0CDD0E
 - 右键菜单合并 2 个片段
 - 640×360 与 1280×720 混分辨率合并（自动重编码）
 - 卸载后右键菜单、发送到、开始菜单、安装目录全部清理
+
+百度网盘下载地址：
+链接: https://pan.baidu.com/s/1dAU5rbgNSken8loJkvmwzw 提取码: nwdi 
